@@ -1,0 +1,6 @@
+{
+  "name": "شلمیار",
+  "description": "اپلیکیشن هوشمند و جامع ثبت و محاسبه خودکار امتیازات بازی شلم دو تیمه",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
